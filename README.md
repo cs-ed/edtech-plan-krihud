@@ -23,6 +23,9 @@ Describe the software that you will use. Include software used for students as
 well as any software the instructor will use. This should include any software
 installed as well as any online services.
 
+* Google Classroom
+* Scratch
+
 ### Hardware Specifications
 
 Describe the hardware requirements for your class. Provide specific requirements
