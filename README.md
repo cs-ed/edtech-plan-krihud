@@ -18,7 +18,9 @@ This is a Title 1 school and all students are on free lunch.
 
 Due to a high amount of migrancy during COVID, there are more behavior problems that have arised.
 
-Students who participate in coding club must have both parent permission and teacher recommendation. Behavior students should not be permitted as time will be taken away from other students. 
+Students who participate in coding club must have both parent permission and teacher recommendation. Behavior students should not be permitted as time will be taken away from other students.
+
+The club is filled on a first come, first serve basis.
 
 Many of the students are bellow grade level academically.
 
