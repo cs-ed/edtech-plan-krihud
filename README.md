@@ -32,8 +32,10 @@ The school is a PBIS school. PBIS is a program that focuses on positive behavor 
 
 * Google Classroom
   Google Classroom is a Google Suite program utilized by the school district that allows assignments, discussion, and work to be posted for both students and     educators. Once the students are connected on Google Classroom, user name import becomes easier for students as they can log into google instead of remembering passwords.
+  
 * Scratch.mit.edu
     Scratch is a website that allows student to use block coding. Students can create an account and build a game on this website without having to download. 
+    
 * codehs.com
     Code HS is a website that allows students safe access to Python online. It has built in coding lessons that we will not be utilizing in this club.
 
