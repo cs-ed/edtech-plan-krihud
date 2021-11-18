@@ -47,12 +47,20 @@ Students will be using Asys Chromebooks.
 
 Students will learn the basics of coding in their three months in the club. 
 
-They will spend 4 weeks on scratch, writing basic games and learning about how the coordingate grid is importand to movement on the the program. Students will learn the importance of loops and how to move a sprite using atonomus control and player control.
+They will spend 4 weeks on scratch, writing basic games and learning about how the coordingate grid is importand to movement on the the program. Students will learn the importance of loops and how to move a sprite using autonomous control and player control.
 
-4 weeks will be spent on python learning how to create while loops and if/ then sentences. Students will take the knowedge theTime will be spent on understanding functions, strings, and coordinate graphs. The last two weeks of the club will be spent on a project of the student's choosing. The will create a comulating project that will showcase what they have learned. They will share this with their classmates, teachers, and other staff at the school. Per availabilty and COVID restictrictions, students will be given the opportunity to attend a fieldtrip at the conclusion of the course to Legoland to take part in the robotics course and to celebrate their accomplishments in the club.
+4 weeks will be spent on python learning how to create while loops and if/ then sentences. Students will take the knowedge that they have developed during Scratch and apply it to coding with Python. Time will be spent on understanding functions, strings, and what is an integer.
+
+The last two weeks of the club will be spent on a project of the student's choosing. Each student will create a comulating project that will showcase what they have learned. They can create their project onn either Scratch of Python. Students will share this with their classmates, teachers, and other staff at the school. Per availabilty and COVID restictrictions, students will be given the opportunity to attend a fieldtrip at the conclusion of the course to Legoland to take part in the robotics course and to celebrate their accomplishments in the club.
 
 All work will be completed in class. Students will use their Chromebooks to log onto the webites to complete the assignments. This is an optional club that is done on the student's time. For this reason, homework or outside club time work will not be required.
 
 ### Impacts
 
-Students who are club attendees will learn the basics of coding that can be applied to middle school coding classes if they wish to continue their studies in that direction. This club is a taste and a step into the world of coding for these students, often the first time they are exposed to it. Discussions involving careers in coding will hopefully create future opportunities for career choices.
+Students who are club attendees will learn the basics of coding that can be applied to middle school coding classes. 
+
+This club is a taste and a step into the world of coding for these students, often the first time they are exposed to it. 
+
+Discussions involving careers in coding will hopefully create future opportunities for career choices and open more possibilities for students.
+
+The goal of the club is to expose students to something new and to get them thinking about the future. This is a no risk club where failure is ok and success are intrinsic rewards. Students are here on their own valition and should feel a sense of accomplishment at the conclusion. 
