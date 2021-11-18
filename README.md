@@ -15,7 +15,7 @@ Students are all provided with a Chromebook from the school district. They have 
 
 ## Plan
 
-Students will learn the basics of coding in their three months in the club. They will spend 4 weeks on scratch, writing basic games and then 4 weeks on python learning how to create while loops and if/ then sentences. Time will be spent on understanding functions, strings, and coordinate graphs. The last two weeks of the club will be spent on a project of the student's choosing. The will create a comulating project that will showcase what they have learned. They will share this with their classmates, teachers, and other staff at the school.
+Students will learn the basics of coding in their three months in the club. They will spend 4 weeks on scratch, writing basic games and then 4 weeks on python learning how to create while loops and if/ then sentences. Time will be spent on understanding functions, strings, and coordinate graphs. The last two weeks of the club will be spent on a project of the student's choosing. The will create a comulating project that will showcase what they have learned. They will share this with their classmates, teachers, and other staff at the school. Per availabilty and COVID restictrictions, students will be given the opportunity to attend a fieldtrip at the conclusion of the course to Legoland to take part in the robotics course and to celebrate their accomplishments in the club.
 
 ### Software Specifications
 
@@ -29,7 +29,7 @@ Students will be using Asys Chromebooks.
 
 ### Application
 
-All work will be completed in class. Students will use their Chromebooks to log onto the webites to complete the assignments.
+All work will be completed in class. Students will use their Chromebooks to log onto the webites to complete the assignments. This is an optional club that is done on the student's time. For this reason, homework or outside club time work will not be required.
 
 ### Impacts
 
