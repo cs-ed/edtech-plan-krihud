@@ -12,7 +12,19 @@ The course will be called Coding Club. Students in 4th and 5th grade, with no pr
 
 ### Situation
 
-Students are all provided with a Chromebook from the school district. They have access to relevant sites but are blocked from others. Scratch is accessable only through google search and blocked when typing the address directly into the browser. This is a Title 1 school. Students who participate in coding club must have both parent permission and teacher recommendation. Behavior students should not be permitted as time will be taken away from other students. MAny of the students are bellow grade level.
+Students are all provided with a Chromebook from the school district. They have access to relevant sites but are blocked from others. Scratch is accessable only through google search and blocked when typing the address directly into the browser. 
+
+This is a Title 1 school and all students are on free lunch. 
+
+Due to a high amount of migrancy during COVID, there are more behavior problems that have arised.
+
+Students who participate in coding club must have both parent permission and teacher recommendation. Behavior students should not be permitted as time will be taken away from other students. 
+
+Many of the students are bellow grade level academically.
+
+The school is an AVID school. AVID is a college readiness program that is elementary school, helps students plan for college, be efficient note takers, and become organzied.
+
+The school is a PBIS school. PBIS is a program that focuses on positive behavor to reward students. 
 
 ## Plan
 
