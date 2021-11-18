@@ -1,3 +1,4 @@
+<img width="717" alt="Screen Shot 2021-09-15 at 3 28 15 PM" src="https://user-images.githubusercontent.com/89427093/142316011-45fa8ba2-351a-4ce7-990a-a24726bf44de.png">
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5664692&assignment_repo_type=AssignmentRepo)
 # Educational Technology Plan
 
