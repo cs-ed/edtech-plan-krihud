@@ -48,7 +48,10 @@ The school is a PBIS school. PBIS is a program that focuses on positive behavor 
 
 The club will have between 15 and 24 students based on interest and 1 teacher.
 
-Students will be using Asys Chromebooks. 
+Students will be using HP Chromebook 11. 
+  8 G memory
+  Running Google Chrome OS.
+  
 
 ### Application
 
