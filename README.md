@@ -1,45 +1,36 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5664692&assignment_repo_type=AssignmentRepo)
 # Educational Technology Plan
 
-Provide a brief description of the purpose of your educational technology Plan
-
 ## Context
+
+Students will participate in an after school coding club once a week for 3 months. The course will be 1 hour long. For many students, this is the first time ever working with coding. 
 
 ### Course
 
-Describe your course including the name, description, and grade level
+The course will be called Coding Club. Students in 4th and 5th grade, with no prior experience will learn the basics of coding on scratch and Python. 
 
 ### Situation
 
-Provide relevant details about your course and/or school that will influence the
-decisions in the plan. What assets and constraints do you face? What is the
-context of your class, considering demographic and technical resources?
+Students are all provided with a Chromebook from the school district. They have access to relevant sites but are blocked from others. Scratch is accessable only through google search and blocked when typing the address directly into the browser. This is a Title 1 school. Students who participate in coding club must have both parent permission and teacher recommendation. Behavior students should not be permitted as time will be taken away from other students. MAny of the students are bellow grade level.
 
 ## Plan
 
-### Software Specifications
+Students will learn the basics of coding in their three months in the club. They will spend 4 weeks on scratch, writing basic games and then 4 weeks on python learning how to create while loops and if/ then sentences. Time will be spent on understanding functions, strings, and coordinate graphs. The last two weeks of the club will be spent on a project of the student's choosing. The will create a comulating project that will showcase what they have learned. They will share this with their classmates, teachers, and other staff at the school.
 
-Describe the software that you will use. Include software used for students as
-well as any software the instructor will use. This should include any software
-installed as well as any online services.
+### Software Specifications
 
 * Google Classroom
 * Scratch
+* codehs.com
 
 ### Hardware Specifications
 
-Describe the hardware requirements for your class. Provide specific requirements
-wherever necessary.
+Students will be using Asys Chromebooks. 
 
 ### Application
 
-Describe how you will use the above technologies in the class, including
-in-class activities, homework, assignments, and assessment. Justify the use
-in terms of efficiency, effectiveness, evidence-based and inclusive pedagogy.
+All work will be completed in class. Students will use their Chromebooks to log onto the webites to complete the assignments.
 
 ### Impacts
 
-How will the technology help *all* students learn? In this section, you can also
-describe how you address class resiliency, such as adapting to
-transitions to virtual education, social/legal/ethical challenges,  and/or
-evolving course contexts.
+Students who are club attendees will learn the basics of coding that can be applied to middle school coding classes if they wish to continue their studies in that direction. This club is a taste and a step into the world of coding for these students, often the first time they are exposed to it. Discussions involving careers in coding will hopefully create future opportunities for career choices.
