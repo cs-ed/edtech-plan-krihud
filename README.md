@@ -8,7 +8,7 @@ Students will participate in an after school coding club once a week for 3 month
 
 ### Course
 
-The course will be called Coding Club. Students in 4th and 5th grade, with no prior experience will learn the basics of coding on scratch and Python. 
+The course will be called Coding Club. Students in 4th and 5th grade, with no prior experience, will learn the basics of coding on scratch and Python. 
 
 ### Situation
 
