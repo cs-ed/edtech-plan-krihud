@@ -50,14 +50,10 @@ The club will have between 15 and 24 students based on interest and 1 teacher.
 
 Teacher will use MacBook Pro
 
-  15 inch
-  
+  15 inch  
   2.7 GHz Intel Core i7
-  
-  16 GB memory
-  
-  Intel HD Graphics
-  
+  16 GB memory  
+  Intel HD Graphics  
   running macOS Mojave
   
 
