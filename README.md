@@ -56,7 +56,7 @@ The club will have between 15 and 24 students based on interest and 1 teacher.
     * running macOS Mojave
   
 
-Students will be using HP Chromebook 11 G8 EE. 
+* Students will be using HP Chromebook 11 G8 EE. 
     * Chrome OS 64  
     * Intel Celeron Processor  
     * 4 GB memory; 32 GB eMMC storage  
@@ -65,16 +65,16 @@ Students will be using HP Chromebook 11 G8 EE.
     * 11.6" screen
   
   
-Samsung Smart TV
-    Model BE65T    
-    65" screen    
-    4K    
-    LED    
-    2 HDMI inputs    
-    WiFi connected
+* Samsung Smart TV
+    * Model BE65T    
+    * 65" screen    
+    * 4K    
+    * LED    
+    * 2 HDMI inputs    
+    * WiFi connected
     
   
-  20 foot HDMI cord
+  * 20 foot HDMI cord
 
 ### Application
 
