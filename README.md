@@ -49,19 +49,32 @@ The school is a PBIS school. PBIS is a program that focuses on positive behavor 
 The club will have between 15 and 24 students based on interest and 1 teacher.
 
 Teacher will use MacBook Pro
+
   15 inch
+  
   2.7 GHz Intel Core i7
+  
   16 GB memory
+  
   Intel HD Graphics
+  
   running macOS Mojave
+  
 
 Students will be using HP Chromebook 11 G8 EE. 
+
   Chrome OS 64
+  
   Intel Celeron Processor
+  
   4 GB memory; 32 GB eMMC storage
+  
   4 GB LPDDr4-3733 MHz RAM
+  
   Integrated Intel UHD Graphics 600
+  
   11.6" screen
+  
   
 Samsung Smart TV
   Model BE65T
