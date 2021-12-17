@@ -78,7 +78,7 @@ The club will have between 15 and 24 students based on interest and 1 teacher.
     * WiFi connected
     
   
-  * 20 foot HDMI cord
+  * 20 foot HDMI cord(The TV can connect wirelessly however I use a microphone during my regular class and the signals interfer so I have hardwired my computer to the TV)
 
 ### Application
 
@@ -101,3 +101,5 @@ This club is a taste and a step into the world of coding for these students, oft
 Discussions involving careers in coding will hopefully create future opportunities for career choices and open more possibilities for students.
 
 The goal of the club is to expose students to something new and to get them thinking about the future. This is a no risk club where failure is ok and success are intrinsic rewards. Students are here on their own valition and should feel a sense of accomplishment at the conclusion. 
+
+Technology in the classroom is constantly evolving. When I started teaching 8 years ago the school had one computer cart for 5th and 6th grade students only. Each class got the computers for 30 minutes a week. 6 years ago two classes had to share a computer cart. Two years ago my school district invested in one to one classroom computers. Last year during distance learning each student received a Chromebook that could be taken home. Today each student brings their own Chromebook to school and home everyday. During this time the amount of online learning has drastically increased. My first year of teaching I would give up my computer time because the district had not invested in any online programs. Today the district has invested in numerous online programs. The students use Google Classroom to complete assignments and to log into other online services. A few years ago the teachers were asking for scratch.mit.edu to be blocked because they thought it was a music website. Now the understanding of i's capi
