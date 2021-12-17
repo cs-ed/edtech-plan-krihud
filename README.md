@@ -18,15 +18,19 @@ This is a Title 1 school and all students are on free lunch.
 
 Due to a high amount of migrancy during COVID, there are more behavior problems that have arised.
 
+This is an after school club and no grades will be given. 
+
+Attendance will be taken. Student who miss for two meetings and are present during shcool hours on the day of coding club will be dismissed and a student on the waitlist will be admitted.
+
 Students who participate in coding club must have both parent permission and teacher recommendation. Behavior students should not be permitted as time will be taken away from other students.
 
 The club is filled on a first come, first serve basis.
 
-Many of the students are bellow grade level academically.
+Many of the students are below grade level academically. 
 
 The school is an AVID school. AVID is a college readiness program that is elementary school, helps students plan for college, be efficient note takers, and become organzied.
 
-The school is a PBIS school. PBIS is a program that focuses on positive behavor to reward students. 
+The school is a PBIS school. PBIS is a program that focuses on positive behavior to reward students. 
 
 ## Plan
 
@@ -42,7 +46,7 @@ The school is a PBIS school. PBIS is a program that focuses on positive behavor 
     
 * codehs.com
 
-    Code HS is a website that allows students safe access to Python online. It has built in coding lessons that we will not be utilizing in this club.
+    Code HS is a website that allows students safe access to Python online. It has built in coding lessons that we will not be utilizing in this club. We are using this platform for the simplisty and easy access to python online. At this time the website is not blocked from the district. 
 
 ### Hardware Specifications
 
