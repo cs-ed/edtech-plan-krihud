@@ -94,9 +94,9 @@ All work will be completed in class. Students will use their Chromebooks to log 
 
 ### Impacts
 
-Students who are club attendees will learn the basics of coding that can be applied to middle school coding classes. 
+Students who are club attendees will learn the basics of coding that can be applied to middle school coding classes. Most students at Morgan/ Kincaid make the transition to two different middle schools in the district. The middle school Morgan/Kincaid feeds to is Mesa Linda. Mesa Linda has more severe behavior problems and teachers come and go from the school. Because of this classes may be offered for a semester before the teacher moves onto another school. Coding may or may not be offered at this school. The district STEAM school, Melva Davis Academy of Excelence is a student choice school that requires an application and does offer technology classes.
 
-This club is a taste and a step into the world of coding for these students, often the first time they are exposed to it. 
+This club is a taste and a step into the world of coding for these students, often the first time they are exposed to it. In the changing technology environment, students need to be aware of jobs that they may have never been exposed to. This class affords students in the school, that may not have access to an outside coding agency, the same opportunity as their well off counterpart in another region with a free coding program that is just as rewarding. 
 
 Discussions involving careers in coding will hopefully create future opportunities for career choices and open more possibilities for students.
 
